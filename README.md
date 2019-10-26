@@ -1,5 +1,5 @@
 # Machine Learning Pipeline
-An experiment to create a simple Machine Learning pipeline.
+An experiment to create a simple Machine Learning pipeline following the principle of MVPs(Minimum Viable Product).
 
 ## Criteria
 The pipeline has to run using free open source technologies.
