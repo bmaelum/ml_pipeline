@@ -15,8 +15,5 @@ This diagram describes the overall flow of the pipeline and is very much a work 
   <img src="Diagrams/ml_pipeline_diagram_v08.png" width="900"/>
 </p>
 
-## Adding data to database
-https://cloud.google.com/sql/docs/mysql/import-export/importing
-
 ## Progress
 To view progress check out the "Projects" tab.
