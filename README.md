@@ -19,5 +19,4 @@ This diagram describes the overall flow of the pipeline and is very much a work 
 https://cloud.google.com/sql/docs/mysql/import-export/importing
 
 ## Progress
-- [x] Add data to database
-- [ ] Connect to database from Python script
+To view progress check out the "Projects" tab.
