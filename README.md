@@ -8,7 +8,7 @@ An experiment to create a simple Machine Learning pipeline following the princip
 
 ## Customer flow
 <p align="center">
-  <img src="Diagrams/customer_flow/customer_flow_v01.png" width="900"/>
+  <img src="Diagrams/customer_flow/customer_flow_v02.png" width="900"/>
 </p>
 
 ## Criteria
