@@ -12,7 +12,7 @@ Imagine that a real-estate broker or governmental body needs to monitor the accu
 ## Diagram
 This diagram describes the overall flow of the pipeline and is very much a work in progress.
 <p align="center">
-  <img src="Diagrams/ml_pipeline_diagram_v08.png" width="900"/>
+  <img src="Diagrams/ml_pipeline_diagram_v09.png" width="900"/>
 </p>
 
 ## Progress
